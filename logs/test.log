@@ -1,0 +1,223 @@
+2026-08-01 19:53:08 INFO  pom.RegistrationPage - Entered Name : - Suyash
+2026-08-01 19:53:13 INFO  pom.RegistrationPage - Entered Name : - Riya
+2026-08-01 19:53:19 INFO  pom.RegistrationPage - Entered Name : - Amisha
+2026-08-01 19:57:45 INFO  pom.RegistrationPage - Entered Name: Suyash
+2026-08-01 19:57:45 INFO  pom.RegistrationPage - Entered Email: suyash@example.com
+2026-08-01 19:57:45 INFO  pom.RegistrationPage - Selected Gender: Male
+2026-08-01 19:57:45 INFO  pom.RegistrationPage - Entered Mobile: 9876543210
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Entered DOB: 01-10-1999
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Entered Subject: Computer Science
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Selected Hobby: Reading
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Entered Address: A/P June Danwad
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 19:57:46 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Entered Name: Riya
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Entered Email: riya@example.com
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Entered Mobile: 9123456789
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Entered DOB: 01-10-1998
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Entered Subject: Mathematics
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Selected Hobby: Music
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Entered Address: A/P Inchalkarnji
+2026-08-01 19:57:51 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 19:57:52 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 19:57:52 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 19:57:55 INFO  pom.RegistrationPage - Entered Name: Amisha
+2026-08-01 19:57:55 INFO  pom.RegistrationPage - Entered Email: amit@example.com
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Entered Mobile: 9988776655
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Entered DOB: 01-10-1997
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Entered Subject: Physics
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Selected Hobby: Sports
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Entered Address: A/P Korochi
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 19:57:56 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:01:04 INFO  pom.RegistrationPage - Entered Name: Suyash
+2026-08-01 20:01:04 INFO  pom.RegistrationPage - Entered Email: suyash@example.com
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Selected Gender: Male
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Entered Mobile: 9876543210
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Entered DOB: 01-10-1999
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Entered Subject: Computer Science
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Selected Hobby: Reading
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Entered Address: A/P June Danwad
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:01:05 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:01:09 INFO  pom.RegistrationPage - Entered Name: Riya
+2026-08-01 20:01:09 INFO  pom.RegistrationPage - Entered Email: riya@example.com
+2026-08-01 20:01:09 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Entered Mobile: 9123456789
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Entered DOB: 01-10-1998
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Entered Subject: Mathematics
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Selected Hobby: Music
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Entered Address: A/P Inchalkarnji
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:01:10 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Entered Name: Amisha
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Entered Email: amit@example.com
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Entered Mobile: 9988776655
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Entered DOB: 01-10-1997
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Entered Subject: Physics
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Selected Hobby: Sports
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:01:14 INFO  pom.RegistrationPage - Entered Address: A/P Korochi
+2026-08-01 20:01:15 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:01:15 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:01:15 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Entered Name: Suyash
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Entered Email: suyash@example.com
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Selected Gender: Male
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Entered Mobile: 9876543210
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Entered DOB: 01-10-1999
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Entered Subject: Computer Science
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Selected Hobby: Reading
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Entered Address: A/P June Danwad
+2026-08-01 20:02:29 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:02:30 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:02:30 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:02:34 INFO  pom.RegistrationPage - Entered Name: Riya
+2026-08-01 20:02:34 INFO  pom.RegistrationPage - Entered Email: riya@example.com
+2026-08-01 20:02:34 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:02:34 INFO  pom.RegistrationPage - Entered Mobile: 9123456789
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Entered DOB: 01-10-1998
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Entered Subject: Mathematics
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Selected Hobby: Music
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Entered Address: A/P Inchalkarnji
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:02:35 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Entered Name: Amisha
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Entered Email: amit@example.com
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Entered Mobile: 9988776655
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Entered DOB: 01-10-1997
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Entered Subject: Physics
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Selected Hobby: Sports
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Entered Address: A/P Korochi
+2026-08-01 20:02:39 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:02:40 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:02:40 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Entered Name: Suyash
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Entered Email: suyash@example.com
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Selected Gender: Male
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Entered Mobile: 9876543210
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Entered DOB: 01-10-1999
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Entered Subject: Computer Science
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Selected Hobby: Reading
+2026-08-01 20:02:58 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:02:59 INFO  pom.RegistrationPage - Entered Address: A/P June Danwad
+2026-08-01 20:02:59 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:02:59 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:02:59 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:03:04 INFO  pom.RegistrationPage - Entered Name: Riya
+2026-08-01 20:03:04 INFO  pom.RegistrationPage - Entered Email: riya@example.com
+2026-08-01 20:03:04 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:03:04 INFO  pom.RegistrationPage - Entered Mobile: 9123456789
+2026-08-01 20:03:04 INFO  pom.RegistrationPage - Entered DOB: 01-10-1998
+2026-08-01 20:03:04 INFO  pom.RegistrationPage - Entered Subject: Mathematics
+2026-08-01 20:03:05 INFO  pom.RegistrationPage - Selected Hobby: Music
+2026-08-01 20:03:05 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:03:05 INFO  pom.RegistrationPage - Entered Address: A/P Inchalkarnji
+2026-08-01 20:03:05 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:03:05 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:03:05 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:03:09 INFO  pom.RegistrationPage - Entered Name: Amisha
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Entered Email: amit@example.com
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Entered Mobile: 9988776655
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Entered DOB: 01-10-1997
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Entered Subject: Physics
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Selected Hobby: Sports
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Entered Address: A/P Korochi
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:03:10 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:03:11 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Entered Name: Suyash
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Entered Name: Amisha
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Entered Name: Riya
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Entered Email: suyash@example.com
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Entered Email: amit@example.com
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Entered Email: riya@example.com
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Selected Gender: Male
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:04:41 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Mobile: 9876543210
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Mobile: 9988776655
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Mobile: 9123456789
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered DOB: 01-10-1999
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered DOB: 01-10-1997
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered DOB: 01-10-1998
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Subject: Computer Science
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Subject: Physics
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Subject: Mathematics
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Selected Hobby: Reading
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Selected Hobby: Sports
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Selected Hobby: Music
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Address: A/P June Danwad
+2026-08-01 20:04:42 INFO  pom.RegistrationPage - Entered Address: A/P Korochi
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Entered Address: A/P Inchalkarnji
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:04:43 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Name: Amisha
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Name: Suyash
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Name: Riya
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Email: amit@example.com
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Email: suyash@example.com
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Email: riya@example.com
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Selected Gender: Male
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Selected Gender: Female
+2026-08-01 20:06:52 INFO  pom.RegistrationPage - Entered Mobile: 9988776655
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered Mobile: 9876543210
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered Mobile: 9123456789
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered DOB: 01-10-1997
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered DOB: 01-10-1999
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered DOB: 01-10-1998
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered Subject: Physics
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered Subject: Computer Science
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Entered Subject: Mathematics
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Selected Hobby: Sports
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Selected Hobby: Reading
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Selected Hobby: Music
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:06:53 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Uploaded Picture: C://Users//suyas/Images//Mahakal.jpg
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Entered Address: A/P Korochi
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Entered Address: A/P June Danwad
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Entered Address: A/P Inchalkarnji
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Selected State: NCR
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Selected City: Agra
+2026-08-01 20:06:54 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:06:55 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 20:06:55 INFO  pom.RegistrationPage - Form Submitted Successfully
+2026-08-01 22:53 INFO  pom.Newuser - Entered mailid : - student@example.com
+2026-08-01 22:53 INFO  pom.Newuser - Entered mailid : - student@example.com
+2026-08-01 22:53 INFO  pom.Newuser - Entered password : - Password123
+2026-08-01 22:53 INFO  pom.Newuser - Entered password : - Password123
