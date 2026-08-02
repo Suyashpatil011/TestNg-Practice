@@ -13,7 +13,7 @@ public class RegistrationTest extends BasePractice {
     public void testRegistration(String name, String email, String gender,
                                  String mobile, String dob, String subject,String hobby ,String filePath ,String address,String state, String city) {
 
-        RegistrationPage regPage = new RegistrationPage(driver);
+        RegistrationPage regPage = new RegistrationPage(getDriver());
 
         // Use POM methods
         regPage.enterName(name);

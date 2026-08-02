@@ -2,7 +2,7 @@ package TestData;
 
 import org.testng.annotations.DataProvider;
 
-public class NewUserData {
+public class LoginUserData {
 
     @DataProvider(name = "NewuserList" ,parallel = true)
     public Object[][] getData() {

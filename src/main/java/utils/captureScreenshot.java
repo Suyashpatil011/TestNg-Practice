@@ -1,5 +1,6 @@
-package Base;
+package utils;
 
+import Base.BasePractice;
 import Base.BaseTest;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -10,9 +11,9 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class captureScreenshot extends BaseTest {
+public class captureScreenshot extends BasePractice {
     public void captureScreenshot(String testName) {
-        File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+        File src = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
 
         // ✅ Ensure screenshots folder exists
         String folderPath = System.getProperty("user.dir") + "/screenshots/";
