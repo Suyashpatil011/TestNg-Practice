@@ -4,6 +4,7 @@ import Base.BasePractice;
 import Base.BaseTest;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.io.FileHandler;
 
 import java.io.File;
@@ -13,10 +14,18 @@ import java.util.Date;
 
 public class captureScreenshot extends BasePractice {
     public void captureScreenshot(String testName) {
-        File src = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
+        capture(getDriver(), testName, "screenshots");
+    }
 
-        // ✅ Ensure screenshots folder exists
-        String folderPath = System.getProperty("user.dir") + "/screenshots/";
+    public void capture(WebDriver driver, String testName, String folderName) {
+        if (driver == null) {
+            return;
+        }
+
+        File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+
+        // ✅ Ensure folder exists
+        String folderPath = System.getProperty("user.dir") + "/screenshots/" + folderName + "/";
         File folder = new File(folderPath);
         if (!folder.exists()) {
             folder.mkdirs();
@@ -28,7 +37,7 @@ public class captureScreenshot extends BasePractice {
 
         try {
             FileHandler.copy(src, dest);
-            System.out.println("✅ Screenshot saved: " + dest.getAbsolutePath());
+            System.out.println("✅ Screenshot saved in " + folderName + ": " + dest.getAbsolutePath());
         } catch (IOException e) {
             e.printStackTrace();
         }

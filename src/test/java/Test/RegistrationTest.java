@@ -1,6 +1,7 @@
 package Test;
 
 import Base.BasePractice;
+import Base.FormConfig;
 import TestData.RegistrationData;
 import org.testng.annotations.Test;
 import pom.RegistrationPage;
@@ -13,6 +14,7 @@ public class RegistrationTest extends BasePractice {
     public void testRegistration(String name, String email, String gender,
                                  String mobile, String dob, String subject,String hobby ,String filePath ,String address,String state, String city) {
 
+        getDriver().get(FormConfig.getFormUrl("practice"));
         RegistrationPage regPage = new RegistrationPage(getDriver());
 
         // Use POM methods
