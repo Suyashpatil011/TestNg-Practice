@@ -15,28 +15,28 @@
     </properties>
 
     <dependencies>
-        <!-- ✅ TestNG -->
+        <!-- TestNG -->
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.10.2</version>
         </dependency>
 
-        <!-- ✅ WebDriverManager -->
+        <!-- WebDriverManager -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>5.8.0</version>
         </dependency>
 
-        <!-- ✅ Selenium WebDriver -->
+        <!-- Selenium WebDriver -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>4.21.0</version>
         </dependency>
 
-        <!-- ✅ Logging -->
+        <!-- Logging -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
@@ -53,34 +53,22 @@
             <version>2.23.1</version>
         </dependency>
 
-        <!-- ✅ ExtentReports -->
+        <!-- ExtentReports -->
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>5.1.1</version>
         </dependency>
 
-        <!-- pom.xml -->
+        <!-- Lombok -->
         <dependency>
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-core</artifactId>
-            <version>2.23.1</version>
-        </dependency>
-        <dependency>
-
-            <groupId>org.apache.logging.log4j</groupId>
-            <artifactId>log4j-api</artifactId>
-            <version>2.23.1</version>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.32</version>
+            <scope>provided</scope>
         </dependency>
 
-        <dependency>
-            <groupId>com.aventstack</groupId>
-            <artifactId>extentreports</artifactId>
-            <version>5.0.9</version>
-        </dependency>
-
-
-        <!-- ✅ Commons IO -->
+        <!-- Commons IO -->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
@@ -102,7 +90,7 @@
                 </configuration>
             </plugin>
 
-            <!-- ✅ Surefire Plugin for TestNG -->
+            <!-- Surefire Plugin for TestNG -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
