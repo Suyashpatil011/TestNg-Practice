@@ -1,11 +1,14 @@
 pipeline {
     agent any
+    tools {
+        jdk 'Java21'
+        maven 'Maven3'
+    }
     stages {
-
-       stage('Checkout Code') {
+        stage('Checkout Code') {
             steps {
                 git branch: 'main',
-                    url: "https://github.com/Suyashpatil011/TestNg-Practice.git"
+                    url: 'https://github.com/Suyashpatil011/TestNg-Practice.git'
             }
         }
         stage('Run Tests') {
@@ -13,9 +16,7 @@ pipeline {
                 bat 'mvn clean test'
             }
         }
-
-     }
-
+    }
     post {
         always {
             junit 'target/surefire-reports/*.xml'
