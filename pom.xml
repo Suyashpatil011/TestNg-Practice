@@ -103,7 +103,7 @@
                     </includes>
                     <testFailureIgnore>false</testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>login.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
