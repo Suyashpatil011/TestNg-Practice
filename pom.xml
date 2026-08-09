@@ -98,12 +98,8 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.2.5</version>
                 <configuration>
-                    <includes>
-                        <include>**/*Test.java</include>
-                    </includes>
-                    <testFailureIgnore>false</testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFile>login.xml</suiteXmlFile>
+                        <suiteXmlFile>test-suites/login.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
