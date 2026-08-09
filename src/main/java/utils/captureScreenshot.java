@@ -13,7 +13,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class captureScreenshot extends BasePractice {
-    public void captureScreenshot(String testName) {
+    public void captureScreenshot
+            (String testName) {
         capture(getDriver(), testName, "screenshots");
     }
 

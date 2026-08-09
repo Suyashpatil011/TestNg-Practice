@@ -38,7 +38,8 @@ public class TestListener implements ITestListener {
         if (driver != null) {
             captureScreenshot cs = new captureScreenshot();
             cs.capture(driver, result.getName(), status);
-        } else {
+        } else
+        {
             System.out.println("⚠️ Could not capture screenshot for " + result.getName() + " because driver was null.");
         }
     }
