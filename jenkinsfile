@@ -9,7 +9,10 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
+                git(
+                    branch: 'jenkins-fix',
                     url: 'https://github.com/Suyashpatil011/TestNg-Practice.git'
+                )
             }
         }
 
@@ -21,7 +24,7 @@ pipeline {
 
         stage('Run Tests') {
             steps {
-                bat 'mvn test'
+                bat 'mvn test -DsuiteXmlFile=login.xml'
             }
         }
     }
