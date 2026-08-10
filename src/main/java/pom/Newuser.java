@@ -16,7 +16,9 @@ public class Newuser {
         this.driver = driver;
     }
 
-    public void enterUsername(String user){
+    public void enterUsername(String user)
+
+    {
         driver.findElement(username).sendKeys(user);
         log.info("Entered mailid : - " + user);
 

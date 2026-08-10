@@ -4,7 +4,8 @@ import org.testng.annotations.DataProvider;
 
 public class LoginUserData {
 
-    @DataProvider(name = "NewuserList" ,parallel = true)
+    @DataProvider
+            (name = "NewuserList" ,parallel = true)
     public Object[][] getData() {
 
         return new Object[][]{

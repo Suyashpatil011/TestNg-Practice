@@ -11,7 +11,9 @@ import org.testng.annotations.BeforeSuite;
 
 import java.lang.reflect.Method;
 
-public class BasePractice {
+public class BasePractice
+
+{
 
     private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
     protected static ExtentReports extent;

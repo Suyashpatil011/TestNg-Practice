@@ -7,7 +7,8 @@ import pom.Newuser;
 
 public class NewUserTest extends BasePractice {
 
-@Test(dataProvider = "NewuserList", dataProviderClass = LoginUserData.class)
+@Test
+        (dataProvider = "NewuserList", dataProviderClass = LoginUserData.class)
     public void testNewUser(String user ,String pass ){
         Newuser nu = new Newuser(getDriver());
         nu.enterUsername(user);

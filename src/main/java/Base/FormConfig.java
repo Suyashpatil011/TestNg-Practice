@@ -1,6 +1,7 @@
 package Base;
 
-public class FormConfig {
+public class FormConfig
+{
 
     // Base URL for Selenium Practice site
     public static final String BASE_URL = "https://www.tutorialspoint.com/selenium/practice/";

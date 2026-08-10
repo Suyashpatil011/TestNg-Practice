@@ -7,7 +7,8 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ExtentManager {
+public class ExtentManager
+{
     private static ExtentReports extent;
 
     public static ExtentReports getInstance() {
