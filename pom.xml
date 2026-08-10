@@ -14,8 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-
-
     <dependencies>
         <!-- TestNG -->
         <dependency>
@@ -92,6 +90,7 @@
                 </configuration>
             </plugin>
 
+            <!-- Surefire Plugin for TestNG -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
@@ -102,8 +101,6 @@
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
-
-
         </plugins>
     </build>
 </project>
